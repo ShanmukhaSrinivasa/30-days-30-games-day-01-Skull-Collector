@@ -18,4 +18,4 @@ A simple 2D top-down game where you control a ghost and must collect all the sku
 
 ## ▶️ Play the Game!
 You can play the game in your browser on its itch.io page:
-**[Link to your new itch.io page for this game]**
+**[https://shanmukha.itch.io/ghostly-skull-collector]**
