@@ -1,6 +1,6 @@
-# 30-Days-30-Games-Day-01-Skull-Collector
+# 15-Days-15-Games-Day-01-Skull-Collector
 
-This is the first game from my "30 Days 30 Games" challenge, created on September 23, 2025.
+This is the first game from my "15 Days 15 Games" challenge, created on September 23, 2025.
 
 ## 🚀 About the Game
 A simple 2D top-down game where you control a ghost and must collect all the skulls on the screen to win.
